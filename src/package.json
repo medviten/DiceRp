@@ -4,4 +4,7 @@
     "author": "medviten",
     "description": "Frp dice app",
     "main": "main.js"
+    "scripts": {
+       "start": "electron ."
+    }
 }
