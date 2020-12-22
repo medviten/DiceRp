@@ -1,1 +1,7 @@
-
+{
+    "name": "DiceRP",
+    "version": "0.0.1",
+    "author": "medviten",
+    "description": "Frp dice app",
+    "main": "main.js"
+}
